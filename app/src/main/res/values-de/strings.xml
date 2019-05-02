@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="text_num_of_wrong">0</string>
+    <string name="text_num_of_correct">0</string>
+    <string name="text_set_num_of_rounds">Regenstücke pro Runde</string>
+    <string name="bt_start_game">Spiel starten</string>
+    <string name="bt_statistics">Statistik</string>
+    <string name="bt_preferences">Voreinstellungen</string>
+    <string name="game_title">Mathmania</string>
+    <string name="game_over_title">Fertig!</string>
+    <string name="game_over_message_1">Du hast</string>
+    <string name="game_over_message_2">richtige und</string>
+    <string name="game_over_message_3">falsche Antworten.</string>
+    <string name="confirm_exit">Möchtest du das Spiel wirklich beenden?</string>
+    <string name="confirm_yes">Ja</string>
+    <string name="confirm_no">Nein</string>
+    <string name="norwegian">Norwegisch</string>
+    <string name="german">Deutsch</string>
+    <string name="statistics_total">Matte Stücke insgesamt</string>
+    <string name="statistics_correct">Richtige Antworten</string>
+    <string name="statistics_wrong">Falsche Antworten</string>
+    <string name="statistics_percentage">Teilen korrekt</string>
+    <string name="statistics_times_played">Runden gespielt</string>
+    <string name="correct_answer">Richtig!</string>
+    <string name="wrong_answer">Falsch!</string>
+    <string name="delete_stats">Statistiken löschen</string>
+</resources>

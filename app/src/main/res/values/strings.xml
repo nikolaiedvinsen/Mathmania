@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mathmania</string>
+    <string name="text_num_of_wrong">0</string>
+    <string name="text_num_of_correct">0</string>
+    <string name="text_set_num_of_rounds">Regnestykker per runde</string>
+    <string name="bt_start_game">Start spill</string>
+    <string name="bt_statistics">Statistikk</string>
+    <string name="bt_preferences">Preferanser</string>
+    <string name="game_title">Mathmania</string>
+    <string name="game_over_title">Ferdig!</string>
+    <string name="game_over_message_1">Du hadde</string>
+    <string name="game_over_message_2">korrekte og</string>
+    <string name="game_over_message_3">feil svar.</string>
+    <string name="confirm_exit">Er du sikker på at du vil avslutte spillet?</string>
+    <string name="confirm_yes">Ja</string>
+    <string name="confirm_no">Nei</string>
+    <string name="norwegian">Norsk</string>
+    <string name="german">Tysk</string>
+    <string name="statistics_total">Regnestykker totalt</string>
+    <string name="statistics_correct">Korrekte svar</string>
+    <string name="statistics_wrong">Feil svar</string>
+    <string name="statistics_percentage">Andel korrekte</string>
+    <string name="statistics_times_played">Runder spilt</string>
+    <string name="correct_answer">Korrekt!</string>
+    <string name="wrong_answer">Feil!</string>
+    <string name="delete_stats">Slett statistikk</string>
+
+
+</resources>
