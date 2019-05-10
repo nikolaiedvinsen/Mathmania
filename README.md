@@ -1,6 +1,7 @@
 # Mathmania
 A simple but educational math learning game, with statistics.
 
+The questions are randomly picked from a list of equations, and the results are saved for later review.
 
 Main menu
 
